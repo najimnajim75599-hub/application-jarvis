@@ -1,0 +1,26 @@
+# Local credentials and application state
+config/api_keys.json
+config/certs/
+config/avatar_position.json
+config/jarvis.instance
+memory/*.json
+uploads/
+*.log
+*.pem
+*.key
+
+# Build and development files
+build/
+dist/
+*.spec
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
