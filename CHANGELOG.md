@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.1 - 2026-09-20
+
+### Fixed
+
+- Corrected Windows stale-instance-lock handling so a previous crash cannot prevent startup with `WinError 6`.
+- Rebuilt and retested the standalone Windows package.
+
 ## v1.0.0 - 2026-09-20
 
 ### Included

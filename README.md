@@ -60,4 +60,4 @@ See [LICENSE](LICENSE).
 
 ## Version
 
-Current release: `v1.0.0`
+Current release: `v1.0.1`
